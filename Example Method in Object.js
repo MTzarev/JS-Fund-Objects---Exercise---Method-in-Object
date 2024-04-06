@@ -10,7 +10,4 @@ human.age = age;
 
 console.log(human.sayHi());
 }
-humanInfo("Peter", 
-"Pan",
-"20"
-);
+humanInfo("Mrioslav", "Petrov","35");
