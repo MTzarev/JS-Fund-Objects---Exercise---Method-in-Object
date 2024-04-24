@@ -7,7 +7,6 @@ let human={
 human.firstName=firstName;
 human.lastName=lastName; 
 human.age = age;
-
 console.log(human.sayHi());
 }
 humanInfo("Mrioslav", "Petrov","35");
